@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lang-game/static/css/main.41f5a95f.chunk.css",
+    "main.js": "/lang-game/static/js/main.5d7a428c.chunk.js",
+    "main.js.map": "/lang-game/static/js/main.5d7a428c.chunk.js.map",
+    "runtime~main.js": "/lang-game/static/js/runtime~main.b5903721.js",
+    "runtime~main.js.map": "/lang-game/static/js/runtime~main.b5903721.js.map",
+    "static/js/2.32ff6e13.chunk.js": "/lang-game/static/js/2.32ff6e13.chunk.js",
+    "static/js/2.32ff6e13.chunk.js.map": "/lang-game/static/js/2.32ff6e13.chunk.js.map",
+    "index.html": "/lang-game/index.html",
+    "precache-manifest.ff4c4af86d7c780413bc18042dc0ab54.js": "/lang-game/precache-manifest.ff4c4af86d7c780413bc18042dc0ab54.js",
+    "service-worker.js": "/lang-game/service-worker.js",
+    "static/css/main.41f5a95f.chunk.css.map": "/lang-game/static/css/main.41f5a95f.chunk.css.map",
+    "static/media/deck.png": "/lang-game/static/media/deck.68ee077c.png",
+    "static/media/lang-logo.png": "/lang-game/static/media/lang-logo.8c0371b2.png"
+  }
+}
